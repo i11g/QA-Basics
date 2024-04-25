@@ -1,1 +1,1 @@
-# QA-Basics Materials
+This repo contains the material related to QA Basic course in SoftUni
